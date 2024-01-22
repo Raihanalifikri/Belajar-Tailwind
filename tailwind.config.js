@@ -6,6 +6,9 @@ module.exports = {
     extend: {spacing: {
       13: '3.25rem'
     },},
+    fontFamily: {
+      'Poppins' : ['Poppins']
+    }
   },
   plugins: [],
 }
